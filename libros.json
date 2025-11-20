@@ -1,0 +1,26 @@
+{
+  "libros": [
+    {
+      "id": 1,
+      "titulo": "Mago de Oz",
+      "autor": "Alejandro Cevallos",
+      "año": 2025,
+      "ISBN": "978-2-9317-774-4"
+    },
+    {
+      "id": 2,
+      "titulo": "Mago de Oz",
+      "autor": "Alejandro Cevallos",
+      "año": 2025,
+      "ISBN": "978-2-9317-774-5"
+    },
+    {
+      "id": 3,
+      "titulo": "Las aventuras de pepito",
+      "autor": "Alejandro Cevallos",
+      "año": 2023,
+      "ISBN": "978-3-5949-270-7"
+    }
+  ],
+  "contador_id": 4
+}
